@@ -12,4 +12,8 @@ This is the purpose Blah Blah.
 
 ## Deployment
 
+This is a simple web project and the server can be any server or file system.
+
 ## How To Contribute
+
+Just use git.
